@@ -1,4 +1,4 @@
-# Hi, I'm bluebell0127 👋
+# bluebell0127
 
 Robotics & Control Software Engineer
 
