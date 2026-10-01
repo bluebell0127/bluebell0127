@@ -5,7 +5,7 @@ Robotics & Control Software Engineer
 ## Tech
 
 **Languages**  
-C++ · Python · MATLAB · C#
+C/C++ · Python · MATLAB
 
 **Robotics / Control**  
 ROS 2 · MuJoCo · MATLAB/Simulink
